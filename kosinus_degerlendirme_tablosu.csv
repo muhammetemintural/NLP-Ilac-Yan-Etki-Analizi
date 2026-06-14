@@ -1,0 +1,17 @@
+Model Adı,5 Benzer Metin (Doc IDs),Skorlar (Kosinüs),Ortalama Skor
+word2vec_lemmatized_cbow_win2_dim100,"doc314274, doc314256, doc314292, doc310582, doc310613","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_lemmatized_skipgram_win2_dim100,"doc134570, doc138066, doc326413, doc310738, doc138059","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_lemmatized_cbow_win4_dim100,"doc138087, doc138093, doc138100, doc310641, doc310675","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_lemmatized_skipgram_win4_dim100,"doc310738, doc310723, doc310706, doc1, doc310688","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_lemmatized_cbow_win2_dim300,"doc138056, doc138040, doc138066, doc138063, doc138059","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_lemmatized_skipgram_win2_dim300,"doc310706, doc1, doc310738, doc310582, doc310593","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_lemmatized_cbow_win4_dim300,"doc310641, doc134570, doc310613, doc1, doc310593","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_lemmatized_skipgram_win4_dim300,"doc138079, doc67953, doc138093, doc138100, doc314256","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_stemmed_cbow_win2_dim100,"doc138025, doc138029, doc138035, doc138040, doc138045","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_stemmed_skipgram_win2_dim100,"doc138100, doc138087, doc138093, doc310641, doc310738","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_stemmed_cbow_win4_dim100,"doc314266, doc310641, doc314292, doc314256, doc134570","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_stemmed_skipgram_win4_dim100,"doc310613, doc310738, doc310723, doc310768, doc67953","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_stemmed_cbow_win2_dim300,"doc314256, doc314274, doc314266, doc314292, doc314282","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_stemmed_skipgram_win2_dim300,"doc138025, doc310613, doc138087, doc138100, doc310706","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_stemmed_cbow_win4_dim300,"doc138056, doc138045, doc138051, doc138040, doc138035","1.0, 1.0, 1.0, 1.0, 1.0",1.0
+word2vec_stemmed_skipgram_win4_dim300,"doc310738, doc138100, doc138093, doc138087, doc310613","1.0, 1.0, 1.0, 1.0, 1.0",1.0
